@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff4bf"/>
+      <stop offset="1" stop-color="#ffa900"/>
+    </linearGradient>
+    <clipPath id="clip-category-pc-game_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="category-pc-game_1" data-name="category-pc-game – 1" clip-path="url(#clip-category-pc-game_1)">
+    <g id="Group_8181" data-name="Group 8181">
+      <path id="Polygon_5" data-name="Polygon 5" d="M40.5,0,54,23.5,40.5,47h-27L0,23.5,13.5,0Z" transform="translate(67.133 38.852) rotate(150)" fill="url(#linear-gradient)"/>
+      <g id="Polygon_6" data-name="Polygon 6" transform="translate(65.767 38.486) rotate(150)" fill="none">
+        <path d="M39,0,52,22.5,39,45H13L0,22.5,13,0Z" stroke="none"/>
+        <path d="M 13.57714462280273 1 L 1.154918670654297 22.5 L 13.57713317871094 44 L 38.42285919189453 44 L 50.84507751464844 22.5 L 38.42285919189453 1 L 13.57714462280273 1 M 13 0 L 39 0 L 52 22.5 L 39 45 L 12.9999885559082 45 L 0 22.5 L 13 0 Z" stroke="none" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_680" data-name="Rectangle 680" width="64" height="64" fill="none"/>
+      <g id="Group_8185" data-name="Group 8185">
+        <g id="Group_8167" data-name="Group 8167" transform="translate(0 3)">
+          <g id="Group_8166" data-name="Group 8166">
+            <g id="Rectangle_2494" data-name="Rectangle 2494" transform="translate(16 42)" fill="#fff" stroke="#1466cc" stroke-linejoin="round" stroke-width="2">
+              <path d="M4,0H28a4,4,0,0,1,4,4V6a0,0,0,0,1,0,0H0A0,0,0,0,1,0,6V4A4,4,0,0,1,4,0Z" stroke="none"/>
+              <path d="M4,1H28a3,3,0,0,1,3,3V4a1,1,0,0,1-1,1H2A1,1,0,0,1,1,4V4A3,3,0,0,1,4,1Z" fill="none"/>
+            </g>
+            <g id="Rectangle_2495" data-name="Rectangle 2495" transform="translate(28 38)" fill="#fff" stroke="#1466cc" stroke-width="2">
+              <rect width="8" height="6" stroke="none"/>
+              <rect x="1" y="1" width="6" height="4" fill="none"/>
+            </g>
+            <g id="Rectangle_2493" data-name="Rectangle 2493" transform="translate(8 8)" fill="#fff" stroke="#1466cc" stroke-width="2">
+              <rect width="46" height="32" rx="4" stroke="none"/>
+              <rect x="1" y="1" width="44" height="30" rx="3" fill="none"/>
+            </g>
+            <rect id="Rectangle_2516" data-name="Rectangle 2516" width="10" height="10" rx="2" transform="translate(10 10)" fill="#ffccd5"/>
+            <rect id="Rectangle_2517" data-name="Rectangle 2517" width="6" height="6" rx="2" transform="translate(45 31)" fill="#ffccd5"/>
+            <rect id="Rectangle_2567" data-name="Rectangle 2567" width="6" height="6" rx="2" transform="translate(45 24)" fill="#ffccd5"/>
+            <rect id="Rectangle_2518" data-name="Rectangle 2518" width="6" height="6" rx="2" transform="translate(38 31)" fill="#ffccd5"/>
+            <g id="Ellipse_454" data-name="Ellipse 454" transform="translate(42 11)" fill="#fff" stroke="#1466cc" stroke-width="2">
+              <circle cx="1" cy="1" r="1" stroke="none"/>
+              <circle cx="1" cy="1" fill="none"/>
+            </g>
+            <g id="Ellipse_458" data-name="Ellipse 458" transform="translate(30 12)" fill="#fff" stroke="#1466cc" stroke-width="2">
+              <circle cx="1" cy="1" r="1" stroke="none"/>
+              <circle cx="1" cy="1" fill="none"/>
+            </g>
+            <g id="Ellipse_455" data-name="Ellipse 455" transform="translate(11 34)" fill="#fff" stroke="#1466cc" stroke-width="2">
+              <circle cx="1" cy="1" r="1" stroke="none"/>
+              <circle cx="1" cy="1" fill="none"/>
+            </g>
+            <g id="Ellipse_456" data-name="Ellipse 456" transform="translate(11 31)" fill="#fff" stroke="#1466cc" stroke-width="2">
+              <circle cx="1" cy="1" r="1" stroke="none"/>
+              <circle cx="1" cy="1" fill="none"/>
+            </g>
+            <g id="Ellipse_457" data-name="Ellipse 457" transform="translate(11 28)" fill="#fff" stroke="#1466cc" stroke-width="2">
+              <circle cx="1" cy="1" r="1" stroke="none"/>
+              <circle cx="1" cy="1" fill="none"/>
+            </g>
+            <line id="Line_1791" data-name="Line 1791" x2="4" transform="translate(46 12)" fill="none" stroke="#1466cc" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1799" data-name="Line 1799" x2="4" transform="translate(29 24)" fill="none" stroke="#1466cc" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1800" data-name="Line 1800" y1="4" transform="translate(31 22)" fill="none" stroke="#1466cc" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1798" data-name="Line 1798" y1="8" transform="translate(35 12) rotate(90)" fill="none" stroke="#1466cc" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1795" data-name="Line 1795" y1="8" transform="translate(23 35) rotate(90)" fill="none" stroke="#1466cc" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1796" data-name="Line 1796" x2="4" transform="translate(15 32)" fill="none" stroke="#1466cc" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1797" data-name="Line 1797" x2="4" transform="translate(15 29)" fill="none" stroke="#1466cc" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_8178" data-name="Group 8178" transform="matrix(0.966, 0.259, -0.259, 0.966, 12.857, -11.262)">
+          <path id="Rectangle_2545" data-name="Rectangle 2545" d="M8,0H8a8,8,0,0,1,8,8V18a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V8A8,8,0,0,1,8,0Z" transform="translate(40 32)" fill="#f9a"/>
+          <path id="Subtraction_109" data-name="Subtraction 109" d="M1245-110h-4a6.015,6.015,0,0,1-5.651-3.978,5.937,5.937,0,0,0,2.684.632h4a6.007,6.007,0,0,0,6-6v-10a7.928,7.928,0,0,0-.767-3.423A7.967,7.967,0,0,1,1251-126v10A6.007,6.007,0,0,1,1245-110Z" transform="translate(-1195 166)" fill="#ff667f"/>
+          <path id="Subtraction_110" data-name="Subtraction 110" d="M1238.316-110.632h0A5.973,5.973,0,0,1,1235-116v-10a8.009,8.009,0,0,1,8-8,7.971,7.971,0,0,1,4.333,1.274,8.019,8.019,0,0,1,2.9,3.3,7.976,7.976,0,0,0-4.266-1.231,8.009,8.009,0,0,0-8,8v10a5.985,5.985,0,0,0,.348,2.019Z" transform="translate(-1195 166)" fill="#ffccd5"/>
+          <g id="Rectangle_2562" data-name="Rectangle 2562" transform="translate(40 32)" fill="none" stroke="#1466cc" stroke-width="2">
+            <path d="M8,0H8a8,8,0,0,1,8,8V18a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V8A8,8,0,0,1,8,0Z" stroke="none"/>
+            <path d="M8,1H8a7,7,0,0,1,7,7V18a5,5,0,0,1-5,5H6a5,5,0,0,1-5-5V8A7,7,0,0,1,8,1Z" fill="none"/>
+          </g>
+          <line id="Line_1804" data-name="Line 1804" x2="14" transform="translate(41 42)" fill="none" stroke="#1466cc" stroke-linecap="round" stroke-width="2"/>
+          <line id="Line_1805" data-name="Line 1805" y1="9" transform="translate(48 33)" fill="none" stroke="#1466cc" stroke-width="2"/>
+          <g id="Ellipse_466" data-name="Ellipse 466" transform="translate(45.385 48.643)" fill="none" stroke="#1466cc" stroke-width="2">
+            <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+            <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

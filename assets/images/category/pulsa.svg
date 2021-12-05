@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff4bf"/>
+      <stop offset="1" stop-color="#ffa900"/>
+    </linearGradient>
+    <clipPath id="clip-category-pulsa_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="category-pulsa_1" data-name="category-pulsa – 1" clip-path="url(#clip-category-pulsa_1)">
+    <g id="Group_8170" data-name="Group 8170">
+      <path id="Polygon_5" data-name="Polygon 5" d="M40.5,0,54,23.5,40.5,47h-27L0,23.5,13.5,0Z" transform="translate(67.133 38.852) rotate(150)" fill="url(#linear-gradient)"/>
+      <g id="Polygon_6" data-name="Polygon 6" transform="translate(65.767 38.486) rotate(150)" fill="none">
+        <path d="M39,0,52,22.5,39,45H13L0,22.5,13,0Z" stroke="none"/>
+        <path d="M 13.57714462280273 1 L 1.154922485351563 22.5 L 13.57714462280273 44 L 38.42285919189453 44 L 50.84507751464844 22.5 L 38.42285919189453 1 L 13.57714462280273 1 M 13 0 L 39 0 L 52 22.5 L 39 45 L 13 45 L 0 22.5 L 13 0 Z" stroke="none" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_680" data-name="Rectangle 680" width="64" height="64" fill="none"/>
+      <g id="Group_8186" data-name="Group 8186">
+        <g id="Group_8162" data-name="Group 8162" transform="translate(13 -2)">
+          <rect id="Rectangle_2515" data-name="Rectangle 2515" width="32" height="32" rx="4" transform="translate(11 18)" fill="#ff6"/>
+          <path id="Subtraction_89" data-name="Subtraction 89" d="M1501-106h-24a4.01,4.01,0,0,1-3.646-2.353A3.969,3.969,0,0,0,1475-108h24a4,4,0,0,0,4-4v-24a3.971,3.971,0,0,0-.353-1.646A4.01,4.01,0,0,1,1505-134v24A4,4,0,0,1,1501-106Z" transform="translate(-1462 156)" fill="#ffff4d"/>
+          <path id="Subtraction_90" data-name="Subtraction 90" d="M1476.1-106.1h0a3.979,3.979,0,0,1-3.1-3.9v-24a4,4,0,0,1,4-4h24a3.979,3.979,0,0,1,3.9,3.1,4.019,4.019,0,0,0-.9-.1h-24a4,4,0,0,0-4,4v24a4.02,4.02,0,0,0,.1.9Z" transform="translate(-1462 156)" fill="#ffffb3"/>
+          <path id="Path_5975" data-name="Path 5975" d="M25.5,22,18,31.75h5.25L21.75,40,30,28.75H24.75Z" transform="translate(7 3)" fill="#fff" stroke="#1466cc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Group_8163" data-name="Group 8163">
+          <g id="Rectangle_2509" data-name="Rectangle 2509" transform="translate(11 8)" fill="#fff" stroke="#1466cc" stroke-width="2">
+            <rect width="24" height="48" rx="4" stroke="none"/>
+            <rect x="1" y="1" width="22" height="46" rx="3" fill="none"/>
+          </g>
+          <g id="Rectangle_2510" data-name="Rectangle 2510" transform="translate(16 8)" fill="#fff" stroke="#1466cc" stroke-width="2">
+            <path d="M0,0H14a0,0,0,0,1,0,0V1a4,4,0,0,1-4,4H4A4,4,0,0,1,0,1V0A0,0,0,0,1,0,0Z" stroke="none"/>
+            <path d="M1.75,1h10.5a.75.75,0,0,1,.75.75v0A2.25,2.25,0,0,1,10.75,4H3.25A2.25,2.25,0,0,1,1,1.75v0A.75.75,0,0,1,1.75,1Z" fill="none"/>
+          </g>
+          <circle id="Ellipse_453" data-name="Ellipse 453" cx="12" cy="12" r="12" transform="translate(11 20)" fill="#ffff80"/>
+          <g id="Ellipse_441" data-name="Ellipse 441" transform="translate(16 50)" fill="#fff" stroke="#1466cc" stroke-width="2">
+            <circle cx="1" cy="1" r="1" stroke="none"/>
+            <circle cx="1" cy="1" fill="none"/>
+          </g>
+          <g id="Ellipse_442" data-name="Ellipse 442" transform="translate(22 50)" fill="#fff" stroke="#1466cc" stroke-width="2">
+            <circle cx="1" cy="1" r="1" stroke="none"/>
+            <circle cx="1" cy="1" fill="none"/>
+          </g>
+          <g id="Ellipse_443" data-name="Ellipse 443" transform="translate(28 50)" fill="#fff" stroke="#1466cc" stroke-width="2">
+            <circle cx="1" cy="1" r="1" stroke="none"/>
+            <circle cx="1" cy="1" fill="none"/>
+          </g>
+          <g id="Rectangle_2561" data-name="Rectangle 2561" transform="translate(11 8)" fill="none" stroke="#1466cc" stroke-width="2">
+            <rect width="24" height="48" rx="4" stroke="none"/>
+            <rect x="1" y="1" width="22" height="46" rx="3" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_8173" data-name="Group 8173" transform="translate(-1 0.5)">
+          <path id="Rectangle_2533" data-name="Rectangle 2533" d="M.667,0H2A2,2,0,0,1,4,2V2A2,2,0,0,1,2,4H.667A.667.667,0,0,1,0,3.333V.667A.667.667,0,0,1,.667,0Z" transform="translate(19 27)" fill="none" stroke="#1466cc" stroke-width="2"/>
+          <path id="Rectangle_2534" data-name="Rectangle 2534" d="M.667,0H2A2,2,0,0,1,4,2V2A2,2,0,0,1,2,4H.667A.667.667,0,0,1,0,3.333V.667A.667.667,0,0,1,.667,0Z" transform="translate(25 30)" fill="none" stroke="#1466cc" stroke-width="2"/>
+          <line id="Line_1801" data-name="Line 1801" y2="7" transform="translate(19 27)" fill="none" stroke="#1466cc" stroke-linecap="round" stroke-width="2"/>
+          <line id="Line_1803" data-name="Line 1803" y2="7" transform="translate(25 30)" fill="none" stroke="#1466cc" stroke-linecap="round" stroke-width="2"/>
+          <line id="Line_1802" data-name="Line 1802" x1="3.5" y1="2.5" transform="translate(19.5 31.5)" fill="none" stroke="#1466cc" stroke-linecap="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

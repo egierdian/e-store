@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff4bf"/>
+      <stop offset="1" stop-color="#ffa900"/>
+    </linearGradient>
+    <clipPath id="clip-category-app_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="category-app_1" data-name="category-app – 1" clip-path="url(#clip-category-app_1)">
+    <g id="Group_8160" data-name="Group 8160">
+      <path id="Polygon_5" data-name="Polygon 5" d="M40.5,0,54,23.5,40.5,47h-27L0,23.5,13.5,0Z" transform="translate(67.133 38.852) rotate(150)" fill="url(#linear-gradient)"/>
+      <g id="Polygon_6" data-name="Polygon 6" transform="translate(65.767 38.486) rotate(150)" fill="none">
+        <path d="M39,0,52,22.5,39,45H13L0,22.5,13,0Z" stroke="none"/>
+        <path d="M 13.57713317871094 1 L 1.154914855957031 22.4999828338623 L 13.57712173461914 44 L 38.42282867431641 44 L 50.84508895874023 22.5 L 38.42282867431641 1 L 13.57713317871094 1 M 13 0 L 38.99996185302734 0 L 52 22.5 L 38.99996185302734 45 L 12.99998092651367 45 L 0 22.49999046325684 L 13 0 Z" stroke="none" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_680" data-name="Rectangle 680" width="64" height="64" fill="none"/>
+      <g id="Group_8163" data-name="Group 8163">
+        <g id="Rectangle_2509" data-name="Rectangle 2509" transform="translate(11 8)" fill="#fff" stroke="#1466cc" stroke-width="2">
+          <rect width="24" height="48" rx="4" stroke="none"/>
+          <rect x="1" y="1" width="22" height="46" rx="3" fill="none"/>
+        </g>
+        <g id="Rectangle_2510" data-name="Rectangle 2510" transform="translate(16 8)" fill="#f7ccff" stroke="#1466cc" stroke-width="2">
+          <path d="M0,0H14a0,0,0,0,1,0,0V1a4,4,0,0,1-4,4H4A4,4,0,0,1,0,1V0A0,0,0,0,1,0,0Z" stroke="none"/>
+          <path d="M1.75,1h10.5a.75.75,0,0,1,.75.75v0A2.25,2.25,0,0,1,10.75,4H3.25A2.25,2.25,0,0,1,1,1.75v0A.75.75,0,0,1,1.75,1Z" fill="none"/>
+        </g>
+        <g id="Ellipse_441" data-name="Ellipse 441" transform="translate(16 50)" fill="#f7ccff" stroke="#1466cc" stroke-width="2">
+          <circle cx="1" cy="1" r="1" stroke="none"/>
+          <circle cx="1" cy="1" fill="none"/>
+        </g>
+        <g id="Ellipse_442" data-name="Ellipse 442" transform="translate(22 50)" fill="#f7ccff" stroke="#1466cc" stroke-width="2">
+          <circle cx="1" cy="1" r="1" stroke="none"/>
+          <circle cx="1" cy="1" fill="none"/>
+        </g>
+        <g id="Ellipse_443" data-name="Ellipse 443" transform="translate(28 50)" fill="#f7ccff" stroke="#1466cc" stroke-width="2">
+          <circle cx="1" cy="1" r="1" stroke="none"/>
+          <circle cx="1" cy="1" fill="none"/>
+        </g>
+        <g id="Group_8164" data-name="Group 8164" transform="translate(15 24)">
+          <rect id="Rectangle_2511" data-name="Rectangle 2511" width="7" height="7" rx="3.5" fill="#ef99ff"/>
+          <rect id="Rectangle_2514" data-name="Rectangle 2514" width="7" height="7" rx="1" transform="translate(0 9)" fill="#ef99ff"/>
+        </g>
+      </g>
+      <g id="Group_8162" data-name="Group 8162" transform="translate(13 -2)">
+        <rect id="Rectangle_2515" data-name="Rectangle 2515" width="32" height="32" rx="4" transform="translate(11 18)" fill="#ef99ff"/>
+        <path id="Subtraction_89" data-name="Subtraction 89" d="M1501-106h-24a4.01,4.01,0,0,1-3.646-2.353A3.969,3.969,0,0,0,1475-108h24a4,4,0,0,0,4-4v-24a3.971,3.971,0,0,0-.353-1.646A4.01,4.01,0,0,1,1505-134v24A4,4,0,0,1,1501-106Z" transform="translate(-1462 156)" fill="#e666ff" opacity="0.5"/>
+        <path id="Subtraction_90" data-name="Subtraction 90" d="M1476.1-106.1h0a3.979,3.979,0,0,1-3.1-3.9v-24a4,4,0,0,1,4-4h24a3.979,3.979,0,0,1,3.9,3.1,4.019,4.019,0,0,0-.9-.1h-24a4,4,0,0,0-4,4v24a4.02,4.02,0,0,0,.1.9Z" transform="translate(-1462 156)" fill="#f7ccff"/>
+        <g id="Group_8161" data-name="Group 8161" transform="translate(16.333 23.333)">
+          <g id="Rectangle_2511-2" data-name="Rectangle 2511" fill="#fff" stroke="#1466cc" stroke-width="2">
+            <rect width="9.333" height="9.333" rx="4.667" stroke="none"/>
+            <rect x="1" y="1" width="7.333" height="7.333" rx="3.667" fill="none"/>
+          </g>
+          <g id="Rectangle_2514-2" data-name="Rectangle 2514" transform="translate(0 12)" fill="#fff" stroke="#1466cc" stroke-width="2">
+            <rect width="9.333" height="9.333" rx="1" stroke="none"/>
+            <rect x="1" y="1" width="7.333" height="7.333" fill="none"/>
+          </g>
+          <g id="Rectangle_2512" data-name="Rectangle 2512" transform="translate(12)" fill="#fff" stroke="#1466cc" stroke-width="2">
+            <rect width="9.333" height="9.333" rx="1" stroke="none"/>
+            <rect x="1" y="1" width="7.333" height="7.333" fill="none"/>
+          </g>
+          <g id="Polygon_3" data-name="Polygon 3" transform="translate(10.667 10.667)" fill="#fff">
+            <path d="M 10.2901496887207 9.666671752929688 L 1.709849953651428 9.666671752929688 C 1.709848880767822 9.666671752929688 1.709847807884216 9.666671752929688 1.70984673500061 9.666671752929688 C 1.709845423698425 9.666669845581055 1.709843993186951 9.666666984558105 1.709842681884766 9.666665077209473 C 1.709845185279846 9.666660308837891 1.709847569465637 9.666656494140625 1.709849953651428 9.666651725769043 L 5.99971866607666 2.040231943130493 L 6.000291347503662 2.040231943130493 L 10.2901496887207 9.666662216186523 C 10.29015159606934 9.666664123535156 10.29015254974365 9.666666984558105 10.29015445709229 9.666669845581055 C 10.29015445709229 9.666670799255371 10.29015350341797 9.666670799255371 10.29015350341797 9.666671752929688 C 10.29015254974365 9.666671752929688 10.29015064239502 9.666671752929688 10.2901496887207 9.666671752929688 Z" stroke="none"/>
+            <path d="M 6 4.079450607299805 L 3.419689178466797 8.666671752929688 L 8.580313682556152 8.666671752929688 L 6 4.079450607299805 M 6 1.039727210998535 C 6.340212345123291 1.039727210998535 6.68042516708374 1.209641456604004 6.871580123901367 1.549471855163574 L 11.16172981262207 9.17640209197998 C 11.53668975830078 9.843011856079102 11.05498027801514 10.66666221618652 10.2901496887207 10.66667175292969 L 1.709850311279297 10.66667175292969 C 0.9450197219848633 10.66666221618652 0.4633102416992188 9.843011856079102 0.8382701873779297 9.17640209197998 L 5.128419876098633 1.549471855163574 C 5.31957483291626 1.209641456604004 5.659787654876709 1.039727210998535 6 1.039727210998535 Z" stroke="none" fill="#1466cc"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

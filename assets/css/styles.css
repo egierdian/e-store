@@ -1,0 +1,92 @@
+body {
+    background-color: #f4f4f4;
+    max-width: 600px;
+    margin: auto;
+    font-family: 'Quicksand', sans-serif;
+    box-shadow: 1px 0px 10px #cfdac8;
+}
+p {
+    font-size: 12px !important;
+}
+._body {
+    background-color: #fff;
+}
+._navbar {
+    background-color: #87AAAA;
+    min-height: 150px;
+    border-radius: 0px 0px 25px 25px;
+}
+._search {
+    margin-top: -75px;
+}
+._search ._input-search {
+    border-radius: 25px;
+}
+._content {
+    margin-top: 50px;
+    min-height: 70vh;
+}
+.__description {
+    margin-top: -10px;
+    background-color: #FAFAFA;
+}
+.__loading {
+    padding-top: 10px;
+}
+/* SIZE FONT */
+.__fw300 {
+    font-weight: 300;
+}
+.__fw500 {
+    font-weight: 500;
+}
+.__fw700 {
+    font-weight: 700;
+}
+
+/* TEXT COLOR CUSTOM */
+.__tc-white{
+    color: #FAFAFA;
+}
+footer {
+    min-height: 50px;
+    text-align: center;
+}
+footer ._footer-credit {
+    margin-top: 10px;
+}
+footer ._footer-credit ._text-footer {
+    font-size: 11px;
+}
+
+/* Product */
+._img-thumbnail-product {
+    height: 100px !important;
+}
+._card-product {
+    box-shadow: 1px 0px 5px #cfdac8;
+}
+._card-product .card-body {
+    height: 150px;
+}
+._card-product .card-body p {
+    margin:-5px;
+    line-height: 1;
+}
+._card-product .card-body ._price {
+    margin-top:20px;
+    font-size: 14px !important;
+    font-weight: 700;
+}
+
+._card-product .card-body ._sold {
+    background-color: #cfdbdb;
+    color: #000;
+    padding:5px;
+    margin-top:30px;
+    border-radius: 5px;
+}
+
+._img-payment{
+    max-width: 125px;
+}
